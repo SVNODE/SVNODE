@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SVNODE
 - 👀 I’m interested in Bitcoin Lightning development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on anything
 - 📫 You can reach me at svnode@protonmail.com
 - 💬 Chat with me at https://matrix.to/#/@silver-node:matrix.org
