@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SVNODE
-- 👀 I’m interested in Bitcoin Lightning development
+- 👀 I’m interested in simple java projects
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on anything
 - 📫 You can reach me at svnode@protonmail.com
