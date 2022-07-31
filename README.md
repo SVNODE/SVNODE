@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SVNODE
+- 👋 Hi, I’m Oclaf
 - 👀 I’m interested in simple java projects
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on anything
